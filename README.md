@@ -1,13 +1,11 @@
-## Hi there 👋
-## 🚀 Technologies & Tools
+# Hi 👋, I'm Albertini KEUMENI
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-</p>
+Full-Stack JUNIOR Developer | Django Enthusiast
+
+## 🚀 Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,tailwindcss,mysql,git,github,vscode)](https://skillicons.dev)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keumenirichard&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keumenirichard&layout=compact)
